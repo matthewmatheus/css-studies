@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.container {
+    width: 100%;
+    font-size: 50px;
+}
+
+.container-1 {
+    background-color: #ccc;
+    height: 100vw;
+    font-size: 10vmin;
+}
+
+.container-2 {
+    background-color: #aaa;
+    height: 100vw;
+    font-size: 10vmax;
+}
+
+.container-3 {
+    background-color: #666;
+    height: 100vw;
+}

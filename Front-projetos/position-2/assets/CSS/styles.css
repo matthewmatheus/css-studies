@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.container {
+    margin: 150px auto;
+    width: 80%;
+    min-height: 600px;
+    background-color: rgb(117, 174, 224);
+    position: relative;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: #ccc;
+    /* margin: 0 20px; */
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.menu{
+    text-align: center;
+    padding: 20px;
+    background-color: #ca3668;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}

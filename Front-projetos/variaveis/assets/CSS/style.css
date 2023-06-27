@@ -1,0 +1,28 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Catamaran', sans-serif;
+
+}
+
+
+.container{
+    width: 80%;
+    margin: var(--space-30) auto;
+    padding: 20px;
+    background-color:var(--bg-color)
+}
+
+.container h1 {
+    margin: var(--space-30) auto;
+    text-align: center;
+}
+
+.box {
+    --width-total: 60%;
+    --margin: 25px;
+
+    width: var(--width-total);
+    margin: var(--margin);
+}

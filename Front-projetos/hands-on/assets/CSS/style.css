@@ -1,0 +1,55 @@
+        body{
+            font-family: 'Catamaran', sans-serif;
+        }
+
+        h1{
+            font-size: 45px;
+            text-transform: uppercase;
+        }
+
+        p{
+            font-size: 18px;
+            font-weight: 500;
+
+        }
+
+        h2{
+            font-size: 30px;
+            color: #db4962;
+            letter-spacing: 1px;
+        }
+
+        img{
+            border-radius: 7px;
+            width: 50%;
+            filter: opacity(60%);
+        }
+
+        img:hover{
+            filter: opacity(100%);
+        }   
+
+        h3{
+            font-size: 25px;
+            color: #0d5b9b;
+            text-align: center;
+        }
+
+        ol,ul{
+            list-style: none;
+            font-weight: 600;
+            text-align: center;
+        }
+
+        a{
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 18px;
+            color: #db4962;
+            
+        }
+
+        a:hover{
+            color:#0d5b9b;
+            text-decoration: underline;
+        }

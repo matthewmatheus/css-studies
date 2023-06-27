@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.box{
+    width: 200px;
+    height: 150px;
+    background-color: #ccc;
+    margin: 10px;
+    display: block;
+    float: left;
+}
+
+h2{
+    clear: both;
+}

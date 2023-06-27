@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.container{
+    width: 80%;
+    margin: 20px auto;
+    text-align: center; 
+}
+
+.icon {
+    font-size: 80px;
+    color: #e62a88;
+    margin: 20px;
+}
